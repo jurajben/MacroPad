@@ -1,0 +1,11 @@
+# KiCad
+*.kicad_prl
+*.000
+*-backups/
+fp-info-cache
+
+# QMK build artefakty
+firmware/**/.build/
+*.hex
+*.uf2
+*.elf
