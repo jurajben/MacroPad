@@ -9,3 +9,4 @@ firmware/**/.build/
 *.hex
 *.uf2
 *.elf
+*.lck
