@@ -16,3 +16,7 @@ QMK
 cd firmware
 qmk compile -kb macropad4x4 -km default
 qmk flash -kb macropad4x4 -km default
+
+## License
+- Firmware: [GPL v2](LICENSE)
+- Hardware: [CERN OHL-S v2](LICENSE.hardware)
