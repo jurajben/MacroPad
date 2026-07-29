@@ -13,9 +13,11 @@
 QMK
 
 ### Build
+```bash
 cd firmware
 qmk compile -kb macropad4x4 -km default
 qmk flash -kb macropad4x4 -km default
+```
 
 ## License
 - Firmware: [GPL v2](LICENSE)
