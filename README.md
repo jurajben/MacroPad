@@ -9,6 +9,9 @@
 - Potenciometer: 10k/N
 - Rotary switch: RTS-01-112-42RP
 
+## Schematic
+![Schematic](hardware/schematic.svg)
+
 ## Firmware
 QMK
 
